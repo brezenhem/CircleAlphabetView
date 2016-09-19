@@ -39,14 +39,15 @@ How to use
 To use the widget, simply add this code to your xml layout:
 
  ```
-<lindenvalley.de.customprogress.AnimationProgressBar
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/progress" />
+    <lindenvalley.de.circlealphabetview.AlphabetView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/view"/>
  ```
  
-To update the indicator, simply call the following method:
+For settings rotate and bend chars, use the following methods:
 ```
-AnimationProgressBar mAnimationProgressBar = (AnimationProgressBar) findViewById(R.id.progress);
-mAnimationProgressBar.updateProgressIndicator();
+AlphabetView alphabetView alphabetView = (AlphabetView) findViewById(R.id.view);
+alphabetView.setCharRotate(5f);
+alphabetView.setCharBend(2f);
 ```
