@@ -35,15 +35,17 @@ Step 2. Add the dependency
  ```
 
 How to use
-----------
-```
+-------------------
+
 To use the widget, simply add this code to your xml layout:
 
+ ```
 <lindenvalley.de.customprogress.AnimationProgressBar
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/progress" />
-
+ ```
+ 
 To update the indicator, simply call the following method:
 
 AnimationProgressBar mAnimationProgressBar = (AnimationProgressBar) findViewById(R.id.progress);
