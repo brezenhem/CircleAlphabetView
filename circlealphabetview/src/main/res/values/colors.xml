@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="CHAR_COLOR_SELECTED">#f86f6f</color>
+    <color name="CHAR_COLOR_NORMAL">#56472d</color>
+</resources>

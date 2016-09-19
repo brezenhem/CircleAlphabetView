@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="alphabet_width">380dp</dimen>
+    <dimen name="char_text_size">16sp</dimen>
+    <dimen name="alphabet_selected_text">14sp</dimen>
+    <dimen name="alphabet_normal_text">11sp</dimen>
+</resources>
