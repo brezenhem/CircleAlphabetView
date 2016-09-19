@@ -10,7 +10,7 @@
     tools:context="lindenvalley.de.circlealphabet.ExampleActivity">
 
     <lindenvalley.de.circlealphabetview.AlphabetView
-        android:layout_width="@dimen/alphabet_width"
+        android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:id="@+id/view"
         android:layout_gravity="center_horizontal"
