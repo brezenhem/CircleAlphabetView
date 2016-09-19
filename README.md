@@ -28,7 +28,7 @@ allprojects {
  ```
     
 Step 2. Add the dependency
-
+ ```
     dependencies {
             compile 'com.github.brezenhem:CircleAlphabetView:1'
     } 
