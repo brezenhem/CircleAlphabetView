@@ -47,7 +47,7 @@ To use the widget, simply add this code to your xml layout:
  ```
  
 To update the indicator, simply call the following method:
-
+```
 AnimationProgressBar mAnimationProgressBar = (AnimationProgressBar) findViewById(R.id.progress);
 mAnimationProgressBar.updateProgressIndicator();
 ```
