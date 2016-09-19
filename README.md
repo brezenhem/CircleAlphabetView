@@ -15,6 +15,7 @@ This library implements the curved clickable lists.
  ![](http://im.ezgif.com/tmp/ezgif-3044549092.gif)
  
 Install
+-------------------
 
 Add it in your root build.gradle at the end of repositories:
 ```
