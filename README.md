@@ -12,8 +12,7 @@ Project description
 -------------------
 This library implements the curved clickable lists.
  
- ![](http://im.ezgif.com/tmp/ezgif-3651176683.gif)
- 
+ ![](http://im.ezgif.com/tmp/ezgif-2973445153.gif)
 Install
 -------------------
 
